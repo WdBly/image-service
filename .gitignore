@@ -1,4 +1,4 @@
 /node_modules
 
-resources/android/splash/*.png
-resources/ios/splash/*.png
+resources/android/splash/*.jpg
+resources/ios/splash/*.jpg
