@@ -1,1 +1,4 @@
 /node_modules
+
+resources/android/splash/*.png
+resources/ios/splash/*.png
